@@ -1,0 +1,21 @@
+Data: 08/12/2023
+Hora: 19:46:40
+Veículo: acura mdx
+Ano: 2007
+Preço de Venda: 5418.00
+Saldo até agora: 18.00
+
+Data: 09/12/2023
+Hora: 20:25:06
+Veículo: toyota 4runner
+Ano: 2014
+Preço de Venda: 16003.17
+Saldo até agora: 71.17
+
+Data: 09/12/2023
+Hora: 20:25:06
+Veículo: toyota 4runner
+Ano: 2014
+Preço de Venda: 16003.17
+Saldo até agora: 124.33
+

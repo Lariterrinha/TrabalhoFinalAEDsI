@@ -1,0 +1,18 @@
+2cliente,data,hora,precovenda,ano,marca,modelo,condicao,combustivel,odometro,status,cambio,tamanho,tipo,cor
+Mateus,09/12/2023,03:17:34,3511.665,1997,acura,3.0cl,excelente,gasolina,190000,desconhecido,automatico,compacto,coupe,cinza
+Zacarias,10/12/2023,03:20:08,6722.333,1989,toyota,22re,razoavel,gasolina,100000,sucata,manual,medio,caminhao,preto
+Fulano,10/12/2023,02:23:59,10999,2013,acura,ilx,excelente,gasolina,80956,alienado,automatico,compacto,sedan,prata
+Larissa,10/12/2023,03:10:48,11031.646,2003,acura,cl,bom,gasolina,46000,alienado,automatico,medio,coupe,vermelho
+Larissa,10/12/2023,03:11:47,15094.965,2010,bmw,135i,desconhecido,gasolina,99600,alienado,automatico,subcompacto,coupe,preto
+amelia,10/12/2023,20:06:18,11576.665,2008,bmw,1-series,bom,gasolina,107986,alienado,automatico,medio,conversivel,azul
+Kat,11/12/2023,01:34:21,6234.800,2005,bmw,325i,excelente,gasolina,162030,desconhecido,manual,compacto,sedan,branco
+Lari,11/12/2023,01:36:40,5518.332,2003,acura,3.2 tl,excelente,gasolina,154100,sucata,automatico,grande,sedan,branco
+Kat,11/12/2023,01:37:12,3511.665,2000,acura,3.5rl,excelente,gasolina,179000,desconhecido,automatico,grande,sedan,marrom
+Maria,11/12/2023,01:37:55,6234.800,2005,acura,mdx,bom,gasolina,188066,sucata,automatico,medio,SUV,branco
+sandro,11/12/2023,01:53:49,6923.000,2004,toyota,4 runner,bom,gasolina,248000,sucata,automatico,grande,hatchback,azul
+Eliel,11/12/2023,22:22:17,5100.0000,2005,acura,mdx touring,bom,gasolina,184125,sucata,automatico,grande,SUV,prata
+Larissa,12/12/2023,15:05:53,4515.000,2004,toyota,4 runner,excelente,gasolina,256150,desconhecido,automatico,medio,SUV,cinza
+Rafa,12/12/2023,15:27:36,10000.0000,2008,bmw,1-series,bom,gasolina,188929,sucata,automatico,medio,conversivel,azul
+Ricazinha,12/12/2023,18:27:59,10000.0000,2017,acura,ilx,desconhecido,gasolina,38256,sucata,automatico,compacto,sedan,preto
+Larissa,13/12/2023,04:17:08,5919.6670,1992,toyota,4 runner,bom,gasolina,150000,sucata,manual,compacto,offroad,vermelho
+Kat,13/12/2023,04:24:46,2550.0000,2002,acura,cl type s,bom,gasolina,179000,desconhecido,automatico,medio,coupe,vermelho

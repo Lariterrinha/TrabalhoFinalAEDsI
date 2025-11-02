@@ -1,0 +1,14 @@
+preco,ano,marca,modelo,condicao,combustivel,odometro,status,cambio,tamanho,tipo,cor
+3120.0000,2005,acura,mdx,bom,gasolina,173889,desconhecido,automatico,grande,SUV,SemCor
+3900.0000,2004,acura,3.5rl,excelente,gasolina,125300,sucata,automatico,grande,sedan,rosa
+4488.0000,2003,acura,3.5 rl,excelente,gasolina,210520,desconhecido,automatico,medio,sedan,branco
+4500.0000,2005,acura,3.2 tl,excelente,gasolina,161260,desconhecido,automatico,medio,sedan,prata
+4514.9990,1996,acura,3.2tl,excelente,gasolina,206544,desconhecido,automatico,medio,sedan,verde
+4715.6650,2006,acura,3.2 tl,seminovo,gasolina,185000,sucata,automatico,grande,sedan,verde
+8160.0000,2013,acura,ilx,excelente,gasolina,140044,sucata,automatico,medio,sedan,branco
+11000.0000,2015,acura,ilx,excelente,gasolina,118000,alienado,manual,compacto,sedan,preto
+17051.6445,2011,acura,mdx,excelente,gasolina,89430,alienado,automatico,grande,SUV,fantasia
+11218.9805,2013,acura,ilx,excelente,gasolina,80956,alienado,automatico,compacto,sedan,prata
+8755.0000,2011,bmw,128i convertible,excelente,gasolina,91887,sucata,manual,medio,conversivel,azul
+9058.9922,2009,bmw,128i,desconhecido,gasolina,113168,sucata,automatico,subcompacto,coupe,verdeAgua
+120799.9219,2005,ferrari,360 spider,seminovo,gasolina,35498,novo,outro,grande,conversivel,vermelho

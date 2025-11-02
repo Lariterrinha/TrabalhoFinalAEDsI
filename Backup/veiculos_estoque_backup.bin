@@ -1,0 +1,15 @@
+preco,ano,marca,modelo,condicao,combustivel,odometro,status,cambio,tamanho,tipo,cor
+17051.6445,2011,acura,mdx,excelente,gasolina,89430,alienado,automatico,grande,SUV,fantasia
+11000.0000,2015,acura,ilx,excelente,gasolina,118000,alienado,manual,compacto,sedan,preto
+9058.9922,2009,bmw,128i,desconhecido,gasolina,113168,sucata,automatico,subcompacto,coupe,colorido
+8755.0000,2011,bmw,128i convertible,excelente,gasolina,91887,sucata,manual,medio,conversivel,azul
+4715.6650,2006,acura,3.2 tl,seminovo,gasolina,185000,sucata,automatico,grande,sedan,verde
+4514.9990,1996,acura,3.2tl,excelente,gasolina,206544,desconhecido,automatico,medio,sedan,verde
+4500.0000,2005,acura,3.2 tl,excelente,gasolina,161260,desconhecido,automatico,medio,sedan,prata
+4488.0000,2003,acura,3.5 rl,excelente,gasolina,210520,desconhecido,automatico,medio,sedan,branco
+3900.0000,2004,acura,3.5rl,excelente,gasolina,125300,sucata,automatico,grande,sedan,rosa
+3825.0000,1997,acura,cl 3.0,excelente,gasolina,145000,desconhecido,automatico,compacto,coupe,verde
+3570.0000,1999,acura,cl,bom,gasolina,206100,desconhecido,automatico,medio,coupe,fantasia
+3120.0000,2005,acura,mdx,bom,gasolina,173889,desconhecido,automatico,grande,SUV,cinza
+3114.8000,2005,acura,md-x awd,excelente,gasolina,1,desconhecido,automatico,grande,SUV,branco
+99559.2656,2001,ferrari,360 modena,bom,gasolina,20187,novo,automatico,medio,conversivel,vermelho

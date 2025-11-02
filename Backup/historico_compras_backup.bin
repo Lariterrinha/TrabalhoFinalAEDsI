@@ -1,0 +1,32 @@
+data,hora,preco_venda,preco,ano,marca,modelo,condicao,combustivel,odometro,status,cambio,tamanho,tipo,cor
+06/12/2023,17:14:27,11576.665,11500,2008,bmw,1-series,bom,gasolina,107986,alienado,automatico,medio,conversivel,azul
+07/12/2023,17:17:21,9058.992,8999,2009,bmw,128i,desconhecido,gasolina,113168,sucata,automatico,subcompacto,coupe,preto
+07/12/2023,17:19:10,4515.000,4500,2004,toyota,4 runner,excelente,gasolina,256150,desconhecido,automatico,medio,SUV,cinza
+08/12/2023,19:46:40,5417.998,5400,2007,acura,mdx,seminovo,gasolina,171200,sucata,automatico,grande,SUV,prata
+09/12/2023,20:25:06,16003.167,15950,2014,toyota,4runner,desconhecido,gasolina,80346,alienado,automatico,medio,SUV,branco
+09/12/2023,20:25:06,16003.167,15950,2014,toyota,4runner,desconhecido,gasolina,80346,alienado,automatico,medio,SUV,branco
+10/12/2023,02:20:33,6923.000,6900,2004,toyota,4 runner,bom,gasolina,248000,sucata,automatico,grande,hatchback,azul
+10/12/2023,02:22:01,13071.565,12985,2011,bmw,128i,seminovo,gasolina,95104,alienado,automatico,compacto,coupe,branco
+10/12/2023,02:23:03,15094.965,14995,2010,bmw,135i,desconhecido,gasolina,99600,alienado,automatico,subcompacto,coupe,preto
+10/12/2023,02:30:49,4514.999,4500,1996,acura,3.2tl,excelente,gasolina,206544,desconhecido,automatico,medio,sedan,verde
+10/12/2023,03:09:24,11031.646,10995,2003,acura,cl,bom,gasolina,46000,alienado,automatico,medio,coupe,vermelho
+10/12/2023,12:22:29,3511.665,3500,2000,acura,3.5rl,excelente,gasolina,179000,desconhecido,automatico,grande,sedan,marrom
+10/12/2023,12:24:24,17051.645,16995,2011,acura,mdx,excelente,gasolina,89430,alienado,automatico,grande,SUV,fantasia
+10/12/2023,20:05:20,4715.665,4700,2006,acura,3.2 tl,seminovo,gasolina,185000,sucata,automatico,grande,sedan,verde
+11/12/2023,01:31:29,0.000,2000,2005,bmw,325i,bom,gasolina,208000,desconhecido,automatico,medio,sedan,cinza
+11/12/2023,01:32:25,6234.800,5995,2005,acura,mdx,bom,gasolina,188066,sucata,automatico,medio,SUV,branco
+11/12/2023,01:33:17,6234.800,4500,2005,bmw,325i,excelente,gasolina,162030,desconhecido,manual,compacto,sedan,branco
+11/12/2023,01:38:22,3120.000,3000,2005,acura,mdx,bom,gasolina,173889,desconhecido,automatico,grande,SUV,cinza
+11/12/2023,01:46:32,0.000,5500,2005,bmw,3 series,excelente,gasolina,123233,sucata,automatico,medio,sedan,cinza
+11/12/2023,01:49:25,0.000,4900,2005,bmw,325i,excelente,gasolina,133000,sucata,automatico,medio,sedan,cinza
+11/12/2023,01:51:44,0.000,3975,2005,bmw,325i,bom,gasolina,99900,desconhecido,automatico,grande,sedan,preto
+11/12/2023,01:52:03,5408.000,5200,2004,acura,3.5rl,excelente,gasolina,125300,sucata,automatico,grande,sedan,cinza
+11/12/2023,01:53:06,3114.800,2995,2005,acura,md-x awd,excelente,gasolina,1,desconhecido,automatico,grande,SUV,branco
+11/12/2023,20:51:21,0.000,9599,2009,bmw,128i coupe,excelente,gasolina,71500,sucata,automatico,compacto,coupe,cinza
+11/12/2023,22:03:46,8755.000,8500,2011,bmw,128i convertible,excelente,gasolina,91887,sucata,manual,medio,conversivel,azul
+11/12/2023,22:20:40,5100.000,5000,2005,acura,mdx touring,bom,gasolina,184125,sucata,automatico,grande,SUV,prata
+12/12/2023,15:03:10,4488.000,4400,2003,acura,3.5 rl,excelente,gasolina,210520,desconhecido,automatico,medio,sedan,branco
+12/12/2023,15:04:04,3825.000,3750,1997,acura,cl 3.0,excelente,gasolina,145000,desconhecido,automatico,compacto,coupe,verde
+12/12/2023,15:26:11,2550.000,2500,2002,acura,cl type s,bom,gasolina,179000,desconhecido,automatico,medio,coupe,vermelho
+13/12/2023,04:10:13,3570.000,3500,1999,acura,cl,bom,gasolina,206100,desconhecido,automatico,medio,coupe,fantasia
+13/12/2023,11:56:27,99559.266,98900,2001,ferrari,360 modena,bom,gasolina,20187,novo,automatico,medio,conversivel,vermelho
