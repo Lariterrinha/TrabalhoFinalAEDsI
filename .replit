@@ -69,3 +69,26 @@ start = "ccls"
 
 [agent]
 expertMode = true
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "VrumVrum"
+
+[[workflows.workflow]]
+name = "VrumVrum"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "make && ./main"
+
+[workflows.workflow.metadata]
+outputType = "console"
